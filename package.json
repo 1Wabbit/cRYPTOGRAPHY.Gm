@@ -5,4 +5,5 @@
     "author": "OCAD University",
     "license": "BSD-3-Clause",
     "dependencies": {
-        "flocking": "2.0
+        "flocking": "2.0.1"
+ 
