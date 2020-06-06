@@ -6,4 +6,4 @@
     "license": "BSD-3-Clause",
     "dependencies": {
         "flocking": "2.0.1"
- 
+    }
