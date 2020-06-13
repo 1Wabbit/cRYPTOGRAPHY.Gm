@@ -6,3 +6,9 @@ fluid.defaults("floe.scienceLab.bufferLoader", {
 
     bufferDefs: [
         {
+            id: "rhodes-chord",
+            src: "audio/rhodes-chord-mono.mp3"
+        }
+    ],
+
+    events: {
