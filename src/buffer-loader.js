@@ -12,3 +12,6 @@ fluid.defaults("floe.scienceLab.bufferLoader", {
     ],
 
     events: {
+        afterBuffersLoaded: "{phSonification}.events.afterBuffersLoaded"
+    }
+});
