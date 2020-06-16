@@ -7,3 +7,9 @@ fluid.defaults("floe.scienceLab.phSonification", {
     components: {
         synth: {
             type: "floe.scienceLab.phSynth"
+        },
+
+        bufferLoader: {
+            type: "floe.scienceLab.bufferLoader"
+        }
+    },
