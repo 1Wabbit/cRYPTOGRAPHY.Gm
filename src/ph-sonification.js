@@ -13,3 +13,7 @@ fluid.defaults("floe.scienceLab.phSonification", {
             type: "floe.scienceLab.bufferLoader"
         }
     },
+
+    events: {
+        afterBuffersLoaded: null
+    },
