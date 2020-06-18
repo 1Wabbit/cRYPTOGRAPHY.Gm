@@ -19,3 +19,6 @@ fluid.defaults("floe.scienceLab.phSonification", {
     },
 
     listeners: {
+        "afterBuffersLoaded.playSynth": "{synth}.play()"
+    }
+});
