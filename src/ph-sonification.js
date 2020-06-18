@@ -17,3 +17,5 @@ fluid.defaults("floe.scienceLab.phSonification", {
     events: {
         afterBuffersLoaded: null
     },
+
+    listeners: {
