@@ -11,3 +11,8 @@ fluid.defaults("floe.scienceLab.phSynth", {
         sources: [
             {
                 id: "distortion",
+                ugen: "flock.ugen.distortion.deJonge",
+
+                // Alan, modulate this parameter, "distortion.amount",
+                // so that it increases at the poles.
+                // So it should be about 5.0 (or a little higher?)
