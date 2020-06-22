@@ -20,3 +20,7 @@ fluid.defaults("floe.scienceLab.phSynth", {
                 // and it should be at 1.0 when we're at the midpoint of 7.
                 amount: 1.0,
                 mul: 0.5,
+                source: {
+                    id: "granulator",
+                    ugen: "flock.ugen.triggerGrains",
+                    buffer: "rhodes-chord",
