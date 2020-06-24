@@ -24,3 +24,8 @@ fluid.defaults("floe.scienceLab.phSynth", {
                     id: "granulator",
                     ugen: "flock.ugen.triggerGrains",
                     buffer: "rhodes-chord",
+                    trigger: {
+                        rate: "control",
+                        ugen: "flock.ugen.dust",
+                        density: 30
+                    },
