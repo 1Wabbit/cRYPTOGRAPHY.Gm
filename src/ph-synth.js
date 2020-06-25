@@ -33,3 +33,7 @@ fluid.defaults("floe.scienceLab.phSynth", {
                     // Alan, modulate this parameter, "granulator.speed",
                     // from about 0.4 to 4 or so (could go higher if it's not annoying).
                     speed: 1.0,
+
+                    centerPos: {
+                        rate: "control",
+                        ugen: "flock.ugen.sinOsc",
