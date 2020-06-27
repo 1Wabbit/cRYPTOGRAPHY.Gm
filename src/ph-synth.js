@@ -37,3 +37,4 @@ fluid.defaults("floe.scienceLab.phSynth", {
                     centerPos: {
                         rate: "control",
                         ugen: "flock.ugen.sinOsc",
+                        freq: 1,
