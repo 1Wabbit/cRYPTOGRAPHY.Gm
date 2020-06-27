@@ -38,3 +38,6 @@ fluid.defaults("floe.scienceLab.phSynth", {
                         rate: "control",
                         ugen: "flock.ugen.sinOsc",
                         freq: 1,
+                        mul: 0.1,
+                        add: 0.9
+                    },
