@@ -46,3 +46,6 @@ fluid.defaults("floe.scienceLab.phSynth", {
                     amp: 0.1
                 }
             }
+        ]
+    }
+});
