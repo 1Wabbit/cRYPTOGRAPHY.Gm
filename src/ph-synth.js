@@ -41,3 +41,8 @@ fluid.defaults("floe.scienceLab.phSynth", {
                         mul: 0.1,
                         add: 0.9
                     },
+
+                    dur: 2.0,
+                    amp: 0.1
+                }
+            }
