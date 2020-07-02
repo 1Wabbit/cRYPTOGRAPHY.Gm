@@ -11,3 +11,5 @@ fluid.defaults("floe.scienceLab.sonification", {
                 enviro: "{sonification}.enviro"
             },
             target: "{that flock.node}.options.components"
+        }
+    ],
