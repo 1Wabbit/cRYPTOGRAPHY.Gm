@@ -18,3 +18,7 @@ fluid.defaults("floe.scienceLab.sonification", {
         enviro: {
             type: "flock.enviro"
         },
+
+        playButton: {
+            type: "flock.ui.enviroPlayButton",
+            container: ".flock-playButton",
