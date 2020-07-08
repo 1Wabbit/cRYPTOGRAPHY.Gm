@@ -9,3 +9,4 @@ fluid.defaults("floe.scienceLab.temperatureSonification", {
             type: "floe.scienceLab.temperatureBand"
         }
     }
+});
