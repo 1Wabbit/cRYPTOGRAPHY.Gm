@@ -1,3 +1,3 @@
 "use strict";
 
-fluid.defau
+fluid.defaults("
