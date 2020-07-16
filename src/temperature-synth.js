@@ -1,3 +1,3 @@
 "use strict";
 
-fluid.defaults("floe.scienc
+fluid.defaults("floe.scienceLab
