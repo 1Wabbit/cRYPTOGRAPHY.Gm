@@ -1,3 +1,3 @@
 "use strict";
 
-fluid.defaults("floe.scienceLab
+fluid.defaults("floe.scienceLab.temper
