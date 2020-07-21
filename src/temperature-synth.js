@@ -1,3 +1,3 @@
 "use strict";
 
-fluid.defaults("floe.scienceLab.temperatureBa
+fluid.defaults("floe.scienceLab.temperatureBand"
