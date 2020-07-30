@@ -1,4 +1,4 @@
 "use strict";
 
 fluid.defaults("floe.scienceLab.temperatureBand", {
-    gradeNames: "flock.b
+    gradeNames: "flock.band"
