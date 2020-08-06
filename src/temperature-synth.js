@@ -4,4 +4,4 @@ fluid.defaults("floe.scienceLab.temperatureBand", {
     gradeNames: "flock.band",
 
     components: {
-        fr
+        freq
