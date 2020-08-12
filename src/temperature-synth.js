@@ -5,4 +5,4 @@ fluid.defaults("floe.scienceLab.temperatureBand", {
 
     components: {
         freqSynth: {
-            type: "flo
+            type: "floe.scie
