@@ -6,4 +6,5 @@ fluid.defaults("floe.scienceLab.temperatureBand", {
     components: {
         freqSynth: {
             type: "floe.scienceLab.temperatureFreqSynth",
-            options
+            options: {
+ 
