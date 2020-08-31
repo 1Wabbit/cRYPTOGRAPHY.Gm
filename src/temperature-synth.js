@@ -8,4 +8,4 @@ fluid.defaults("floe.scienceLab.temperatureBand", {
             type: "floe.scienceLab.temperatureFreqSynth",
             options: {
                 addToEnvironment: "head"
-      
+          
