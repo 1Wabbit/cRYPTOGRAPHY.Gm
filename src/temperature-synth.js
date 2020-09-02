@@ -9,4 +9,6 @@ fluid.defaults("floe.scienceLab.temperatureBand", {
             options: {
                 addToEnvironment: "head"
             }
-        }
+        },
+
+  
