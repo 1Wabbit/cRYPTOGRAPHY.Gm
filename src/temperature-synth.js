@@ -11,4 +11,4 @@ fluid.defaults("floe.scienceLab.temperatureBand", {
             }
         },
 
-        
+        mixSyn
