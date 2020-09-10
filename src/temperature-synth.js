@@ -12,4 +12,4 @@ fluid.defaults("floe.scienceLab.temperatureBand", {
         },
 
         mixSynth: {
-            type: "floe.scienc
+            type: "floe.science
