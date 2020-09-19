@@ -13,4 +13,4 @@ fluid.defaults("floe.scienceLab.temperatureBand", {
 
         mixSynth: {
             type: "floe.scienceLab.temperatureMixSynth",
-         
+            opti
