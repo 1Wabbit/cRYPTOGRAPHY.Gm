@@ -14,4 +14,5 @@ fluid.defaults("floe.scienceLab.temperatureBand", {
         mixSynth: {
             type: "floe.scienceLab.temperatureMixSynth",
             options: {
-                addToEnvironment: "hea
+                addToEnvironment: "head"
+   
