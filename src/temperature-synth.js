@@ -19,4 +19,4 @@ fluid.defaults("floe.scienceLab.temperatureBand", {
         },
 
         soundSynth: {
-            type: "floe.scienceLab.temperat
+            type: "floe.scienceLab.temperatur
