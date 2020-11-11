@@ -21,4 +21,5 @@ fluid.defaults("floe.scienceLab.temperatureBand", {
         soundSynth: {
             type: "floe.scienceLab.temperatureSoundSynth",
             options: {
-                addToEnvironment: "tai
+                addToEnvironment: "tail"
+  
