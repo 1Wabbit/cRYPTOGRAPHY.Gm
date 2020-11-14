@@ -22,4 +22,4 @@ fluid.defaults("floe.scienceLab.temperatureBand", {
             type: "floe.scienceLab.temperatureSoundSynth",
             options: {
                 addToEnvironment: "tail"
-       
+            
