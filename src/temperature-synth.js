@@ -24,3 +24,5 @@ fluid.defaults("floe.scienceLab.temperatureBand", {
                 addToEnvironment: "tail"
             }
         }
+    }
+}
