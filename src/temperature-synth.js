@@ -27,4 +27,4 @@ fluid.defaults("floe.scienceLab.temperatureBand", {
     }
 });
 
-fluid.defaults("floe.scienceLab.temperat
+fluid.defaults("floe.scienceLab.temperatur
