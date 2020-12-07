@@ -28,4 +28,4 @@ fluid.defaults("floe.scienceLab.temperatureBand", {
 });
 
 fluid.defaults("floe.scienceLab.temperatureFreqSynth", {
-   
+    g
