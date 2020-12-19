@@ -30,4 +30,5 @@ fluid.defaults("floe.scienceLab.temperatureBand", {
 fluid.defaults("floe.scienceLab.temperatureFreqSynth", {
     gradeNames: "flock.modelSynth",
 
-    synthDef:
+    synthDef: {
+      
