@@ -32,4 +32,4 @@ fluid.defaults("floe.scienceLab.temperatureFreqSynth", {
 
     synthDef: {
         ugen: "flock.ugen.out",
-     
+        b
