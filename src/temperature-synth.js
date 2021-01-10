@@ -35,4 +35,4 @@ fluid.defaults("floe.scienceLab.temperatureFreqSynth", {
         bus: 4,
         expand: 1,
         sources: [
-       
+            {
