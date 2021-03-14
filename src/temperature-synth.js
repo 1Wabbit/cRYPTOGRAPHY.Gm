@@ -37,4 +37,4 @@ fluid.defaults("floe.scienceLab.temperatureFreqSynth", {
         sources: [
             {
                 id: "frequency",
-                uge
+                ugen: "fl
