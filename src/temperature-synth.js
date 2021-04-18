@@ -39,4 +39,4 @@ fluid.defaults("floe.scienceLab.temperatureFreqSynth", {
                 id: "frequency",
                 ugen: "flock.ugen.value",
                 rate: "control",
-                // Alan, scale this value, "
+                // Alan, scale this value, "frequen
