@@ -42,3 +42,4 @@ fluid.defaults("floe.scienceLab.temperatureFreqSynth", {
                 // Alan, scale this value, "frequency.value", logarithmically between 120 and 960
                 value: 120
             }
+     
