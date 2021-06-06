@@ -43,3 +43,5 @@ fluid.defaults("floe.scienceLab.temperatureFreqSynth", {
                 value: 120
             }
         ]
+    }
+})
