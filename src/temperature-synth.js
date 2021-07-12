@@ -47,4 +47,4 @@ fluid.defaults("floe.scienceLab.temperatureFreqSynth", {
 });
 
 fluid.defaults("floe.scienceLab.temperatureMixSynth", {
-    gradeNames: "f
+    gradeNames: "floc
