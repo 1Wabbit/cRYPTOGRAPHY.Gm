@@ -49,4 +49,4 @@ fluid.defaults("floe.scienceLab.temperatureFreqSynth", {
 fluid.defaults("floe.scienceLab.temperatureMixSynth", {
     gradeNames: "flock.modelSynth",
 
-    maxAmplitude: 1.
+    maxAmplitude: 1.0,
