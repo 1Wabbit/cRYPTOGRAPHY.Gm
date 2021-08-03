@@ -51,4 +51,5 @@ fluid.defaults("floe.scienceLab.temperatureMixSynth", {
 
     maxAmplitude: 1.0,
 
-    synthD
+    synthDef: {
+ 
