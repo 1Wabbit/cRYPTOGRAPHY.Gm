@@ -52,4 +52,5 @@ fluid.defaults("floe.scienceLab.temperatureMixSynth", {
     maxAmplitude: 1.0,
 
     synthDef: {
-        ugen: "flock.ugen.ou
+        ugen: "flock.ugen.out",
+  
