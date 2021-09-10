@@ -54,4 +54,4 @@ fluid.defaults("floe.scienceLab.temperatureMixSynth", {
     synthDef: {
         ugen: "flock.ugen.out",
         bus: 5,
-   
+     
