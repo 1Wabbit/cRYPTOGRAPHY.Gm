@@ -56,4 +56,4 @@ fluid.defaults("floe.scienceLab.temperatureMixSynth", {
         bus: 5,
         expand: 1,
         sources: [
- 
+      
