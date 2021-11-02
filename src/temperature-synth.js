@@ -58,4 +58,4 @@ fluid.defaults("floe.scienceLab.temperatureMixSynth", {
         sources: [
             {
                 id: "mix",
-                ugen: "flock.ugen.val
+                ugen: "flock.ugen.value",
