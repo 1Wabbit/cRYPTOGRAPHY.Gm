@@ -62,4 +62,4 @@ fluid.defaults("floe.scienceLab.temperatureMixSynth", {
                 rate: "control",
 
                 // Alan, scale this value, "mix.value", between 0 and {that}.options.maxAmplitude
-                
+                valu
