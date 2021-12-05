@@ -68,4 +68,4 @@ fluid.defaults("floe.scienceLab.temperatureMixSynth", {
     }
 });
 
-fluid.defaults(
+fluid.defaults("floe.s
