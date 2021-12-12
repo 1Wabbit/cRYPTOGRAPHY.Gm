@@ -71,4 +71,5 @@ fluid.defaults("floe.scienceLab.temperatureMixSynth", {
 fluid.defaults("floe.scienceLab.temperatureSoundSynth", {
     gradeNames: "flock.modelSynth",
 
-    synthDef:
+    synthDef: {
+   
