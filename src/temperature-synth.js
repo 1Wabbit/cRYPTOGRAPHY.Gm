@@ -72,4 +72,4 @@ fluid.defaults("floe.scienceLab.temperatureSoundSynth", {
     gradeNames: "flock.modelSynth",
 
     synthDef: {
-        uge
+        ugen: 
