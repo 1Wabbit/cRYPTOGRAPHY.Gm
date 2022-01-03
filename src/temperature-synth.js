@@ -76,4 +76,4 @@ fluid.defaults("floe.scienceLab.temperatureSoundSynth", {
         sources: [
             // Cold
             {
-                ugen: "flock.ug
+                ugen: "flock.ugen.s
