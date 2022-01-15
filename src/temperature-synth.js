@@ -80,4 +80,5 @@ fluid.defaults("floe.scienceLab.temperatureSoundSynth", {
                 freq: {
                     ugen: "flock.ugen.in",
        				bus: 4,
-                    rate: "cont
+                    rate: "control"
+  
