@@ -88,4 +88,5 @@ fluid.defaults("floe.scienceLab.temperatureSoundSynth", {
                     rate: "control",
                     source: "{temperatureMixSynth}.options.maxAmplitude",
                     sub: {
-                        ugen: "flock.ugen
+                        ugen: "flock.ugen.in",
+ 
