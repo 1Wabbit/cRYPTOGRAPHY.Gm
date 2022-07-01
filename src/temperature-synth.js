@@ -96,4 +96,5 @@ fluid.defaults("floe.scienceLab.temperatureSoundSynth", {
             },
 
             // Hot
-           
+            {
+ 
