@@ -97,4 +97,5 @@ fluid.defaults("floe.scienceLab.temperatureSoundSynth", {
 
             // Hot
             {
-                ugen: "flock.ugen.saw"
+                ugen: "flock.ugen.saw",
+   
