@@ -99,4 +99,5 @@ fluid.defaults("floe.scienceLab.temperatureSoundSynth", {
             {
                 ugen: "flock.ugen.saw",
                 freq: {
-                    ugen: "flock.ugen.in"
+                    ugen: "flock.ugen.in",
+    
