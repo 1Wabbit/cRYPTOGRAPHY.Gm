@@ -108,4 +108,4 @@ fluid.defaults("floe.scienceLab.temperatureSoundSynth", {
                     rate: "control",
                     bus: 5
                 }
-      
+         
