@@ -109,4 +109,6 @@ fluid.defaults("floe.scienceLab.temperatureSoundSynth", {
                     bus: 5
                 }
             }
-        ]
+        ],
+
+    
