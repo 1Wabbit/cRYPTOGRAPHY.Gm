@@ -112,4 +112,5 @@ fluid.defaults("floe.scienceLab.temperatureSoundSynth", {
         ],
 
         mul: {
-            id: "envelope"
+            id: "envelope",
+   
