@@ -115,4 +115,5 @@ fluid.defaults("floe.scienceLab.temperatureSoundSynth", {
             id: "envelope",
             ugen: "flock.ugen.envGen",
             envelope: "flock.envelope.asr",
-            mul: 0.
+            mul: 0.5,
+  
