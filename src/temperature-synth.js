@@ -117,4 +117,5 @@ fluid.defaults("floe.scienceLab.temperatureSoundSynth", {
             envelope: "flock.envelope.asr",
             mul: 0.5,
             timeScale: 1.0,
-            gate:
+            gate: {
+ 
