@@ -118,4 +118,4 @@ fluid.defaults("floe.scienceLab.temperatureSoundSynth", {
             mul: 0.5,
             timeScale: 1.0,
             gate: {
-          
+             
