@@ -119,4 +119,4 @@ fluid.defaults("floe.scienceLab.temperatureSoundSynth", {
             timeScale: 1.0,
             gate: {
                 id: "gate",
-     
+             
