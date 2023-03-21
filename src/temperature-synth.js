@@ -120,3 +120,5 @@ fluid.defaults("floe.scienceLab.temperatureSoundSynth", {
             gate: {
                 id: "gate",
                 ugen: "flock.ugen.timedGate",
+
+  
