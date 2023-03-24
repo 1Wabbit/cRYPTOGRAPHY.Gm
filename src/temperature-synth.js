@@ -121,4 +121,4 @@ fluid.defaults("floe.scienceLab.temperatureSoundSynth", {
                 id: "gate",
                 ugen: "flock.ugen.timedGate",
 
-                // Alan, scale this input, "gate.d
+                // Alan, scale this input, "gate.duration
