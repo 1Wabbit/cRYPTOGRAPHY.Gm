@@ -122,4 +122,4 @@ fluid.defaults("floe.scienceLab.temperatureSoundSynth", {
                 ugen: "flock.ugen.timedGate",
 
                 // Alan, scale this input, "gate.duration", between 0.3 and 0.001
-                durati
+                duration:
