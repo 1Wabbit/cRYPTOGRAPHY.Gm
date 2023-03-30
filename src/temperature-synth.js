@@ -123,4 +123,4 @@ fluid.defaults("floe.scienceLab.temperatureSoundSynth", {
 
                 // Alan, scale this input, "gate.duration", between 0.3 and 0.001
                 duration: 0.3,
-           
+               
