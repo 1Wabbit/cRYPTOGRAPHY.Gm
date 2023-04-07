@@ -125,3 +125,5 @@ fluid.defaults("floe.scienceLab.temperatureSoundSynth", {
                 duration: 0.3,
                 trigger: {
                     ugen: "flock.ugen.impulse",
+
+     
