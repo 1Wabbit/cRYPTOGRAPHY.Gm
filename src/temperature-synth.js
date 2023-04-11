@@ -126,4 +126,4 @@ fluid.defaults("floe.scienceLab.temperatureSoundSynth", {
                 trigger: {
                     ugen: "flock.ugen.impulse",
 
-                    // Alan, scale this input, "gate
+                    // Alan, scale this input, "gate.trigg
