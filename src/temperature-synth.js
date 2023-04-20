@@ -128,3 +128,4 @@ fluid.defaults("floe.scienceLab.temperatureSoundSynth", {
 
                     // Alan, scale this input, "gate.trigger.freq", between 1 and 8
                     freq: 1
+      
